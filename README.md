@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate software developer with a strong focus on backend development, system-level programming, and database management. I enjoy solving problems and writing clean, efficient code. My primary skills include Python, Linux, and SQL.
 
----
+
 
 ## 🛠️ Skills & Technologies
 
@@ -21,7 +21,7 @@ I'm a passionate software developer with a strong focus on backend development, 
 - Debugging and performance optimization.
 - Database schema design and query tuning.
 
----
+
 
 ## 📂 Projects
 
@@ -38,14 +38,14 @@ I’m continuously expanding my expertise in:
 - Cloud-based databases
 - Optimization techniques in Python
 
----
+
 
 ## 📫 How to Reach Me
 - **Email**: tba
 - **LinkedIn**: tba
 - **Website/Portfolio**: tba
 
----
+
 
 ### Thank you for visiting my GitHub profile! 🚀
 
