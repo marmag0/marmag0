@@ -44,7 +44,7 @@ I’m continuously expanding my expertise in:
 - **Email**: tba
 - **LinkedIn**: tba
 - **Website/Portfolio**:
-  - sda
+  - [strona GitHub](https://marmag0.github.io)
 
 
 
