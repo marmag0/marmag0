@@ -39,7 +39,7 @@ I’m continuously expanding my expertise in:
 - Optimization techniques in Python
 
 ## My forks
-- [AI](https://github.com/marmag0/Cosmos)
+- [Cosmos World Foundation Model Platform for Physical AI](https://github.com/marmag0/Cosmos) -> [article](https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for)
 
 
 ## 📫 How to Reach Me
