@@ -38,6 +38,8 @@ I’m continuously expanding my expertise in:
 - Cloud-based databases
 - Optimization techniques in Python
 
+## My forks
+- [AI](https://github.com/marmag0/Cosmos)
 
 
 ## 📫 How to Reach Me
