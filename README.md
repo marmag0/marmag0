@@ -1,45 +1,42 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
 ## About Me
-I'm a passionate software developer with a strong focus on backend development, system-level programming, and database management. I enjoy solving problems and writing clean, efficient code. My primary skills include Python, Linux, and SQL.
-
+I'm a passionate software developer and cybersecurity professional with a strong focus on fullstack development, network management, system administration and database management. I enjoy solving problems and writing clean, efficient code. My primary skills include Networking, Python, SQL, Linux, Windows, macOS.
 
 
 ## 🛠️ Skills & Technologies
 
 ### Languages:
-- **Python**: Proficient in scripting, data analysis, automation, and backend development.
+- **Python**: ...
 - **SQL**: Skilled in writing optimized queries, database design, and management.
 
 ### Platforms & Tools:
-- **Linux**: Extensive experience with Linux environments for development, scripting, and administration.
-- **Git**: Version control and collaborative development.
+- **Linux**: Intermediate experience with Linux environments for development, scripting, and administration.
+- **MySQL**:
+- **Microsoft SQL Server**:
 - **Bash Scripting**: Automating tasks and creating tools in Unix/Linux systems.
+- **Git**: Version control and collaborative development.
 
 ### Specialties:
-- Building efficient and scalable systems.
-- Debugging and performance optimization.
-- Database schema design and query tuning.
-
+- 
+-
+-
 
 
 ## 📂 Projects
-
 Here are some highlights from my repositories:
+-
+-
 
-- **[Project 1 Name](#)**: A Python-based tool for [brief description].
-- **[Project 2 Name](#)**: SQL scripts and procedures for [goal/purpose].
 
 ---
 
 ## 🌱 What I’m Learning
 I’m continuously expanding my expertise in:
-- Advanced Linux internals
-- Cloud-based databases
-- Optimization techniques in Python
-
-## My forks
-- [Cosmos World Foundation Model Platform for Physical AI](https://github.com/marmag0/Cosmos) -> [article](https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for)
+- Advanced Linux administration
+- Network Management
+- Cybersecurity
+- Machine learning
 
 
 ## 📫 How to Reach Me
