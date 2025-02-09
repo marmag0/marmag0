@@ -46,8 +46,6 @@ I’m continuously expanding my expertise in:
 - **Email**: tba
 - **LinkedIn**: tba
 - **Website/Portfolio**:
-  - [strona GitHub](https://marmag0.github.io)
-
 
 
 ### Thank you for visiting my GitHub profile! 🚀
