@@ -31,7 +31,7 @@ Here are some highlights from my repositories:
 
 ---
 
-## 🌱 What I’m Learning
+## 📚 What I’m Learning
 I’m continuously expanding my expertise in:
 - Advanced Linux administration
 - Network Management
