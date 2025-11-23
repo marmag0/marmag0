@@ -6,7 +6,6 @@ I enjoy solving problems and writing clean, efficient code.
 
 My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash, SQL, HTML, and CSS**.
 
----
 
 ## 🛠️ Skills & Technologies
 
@@ -24,7 +23,6 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 - **Ansible**: automation of server configuration using playbooks.
 - **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf
 
----
 
 ## 📂 Projects
 
@@ -35,7 +33,6 @@ Here are some highlights from my repositories:
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) — database contributor
 - Two web projects — I'll share them **in the near future**
 
----
 
 ## 📚 What I’m Learning
 
@@ -45,7 +42,6 @@ I’m continuously expanding my expertise in:
 - Cybersecurity
 - Testing and Automation
 
----
 
 ## My Diary — on GitHub!
 
@@ -53,7 +49,6 @@ I really enjoy writing in Markdown, so I'm launching a small diary project.
 It's currently a private repo, but **in the near future**… maybe I'll decide to share it in a more entertaining way.  
 LinkedIn rambling, perhaps? 😄
 
----
 
 ## 📫 How to Reach Me
 - **Email**: TBA
