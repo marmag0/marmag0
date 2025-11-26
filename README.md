@@ -31,7 +31,7 @@ Here are some highlights from my repositories:
 - [My Bash Repo](https://github.com/marmag0/bash-scripts)
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) — database contributor
-- Two web projects — I'll share them **in the near future** (psst... one will be published on [https://spectrum.agh.edu.pl](https://spectrum.agh.edu.pl)
+- Two web projects — I'll share them **in the near future** (psst... one will be published on [https://spectrum.agh.edu.pl](https://spectrum.agh.edu.pl))
 
 
 ## 📚 What I’m Learning
