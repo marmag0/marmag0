@@ -44,13 +44,6 @@ I’m continuously expanding my expertise in:
 - Testing and Automation
 
 
-## My Diary — on GitHub!
-
-I really enjoy writing in Markdown, so I'm launching a small diary project.  
-It's currently a private repo, but **in the near future**… maybe I'll decide to share it in a more entertaining way.  
-LinkedIn rambling, perhaps? 😄
-
-
 ## 📫 How to Reach Me
 - **Email**: TBA
 - **LinkedIn**: [ME](https://www.linkedin.com/in/mikolaj-mazur/)
