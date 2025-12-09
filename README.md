@@ -27,6 +27,7 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 ## 📂 Projects
 
 Here are some highlights from my repositories:
+- [File upload vulnerabilities - lab designed by me](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
 - [My Python Repo](https://github.com/marmag0/python-random)
 - [My Bash Repo](https://github.com/marmag0/bash-scripts)
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
