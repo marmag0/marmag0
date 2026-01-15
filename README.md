@@ -10,16 +10,16 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 ## 🛠️ Skills & Technologies
 
 ### Languages:
-- **Python**: functional programming, OOP, algorithm implementation, system scripts, data analysis (with Pandas), and web development with Flask.
+- **Python**: functional programming, OOP, algorithm implementation, system scripts, data analysis (with Pandas), and backend development with Flask.
 - **Bash**: automation scripts and log analysis.
 - **HTML & CSS**: basic, responsive website design.
-- **SQL**: skilled in writing optimized queries, database design, and database management; experienced with TimescaleDB and PostGIS extensions.
+- **SQL**: skilled in writing optimized queries, database design, and database management; experienced with TimescaleDB, PostGIS and pgTAP extensions.
 
 ### Platforms & Tools:
 - **Linux**: Intermediate experience with Linux environments for development, scripting, and administration. Daily macOS user — and yes, Bash is very useful there as well.
 - **Git**: Version control and collaborative development. Experienced with advanced workflows, branching strategies, and conflict resolution.
 - **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments.
-- **Kubernetes**: basic experience with deploying and managing containerized applications.
+- **Docker**: basic experience with deploying and managing containerized applications.
 - **Ansible**: automation of server configuration using playbooks.
 - **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf
 
@@ -27,14 +27,20 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 ## 📂 Projects
 
 Here are some highlights from my repositories:
-- [File upload vulnerabilities - lab designed by me](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
-- [My Python Repo](https://github.com/marmag0/python-random)
-- [My Bash Repo](https://github.com/marmag0/bash-scripts)
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
+  - Full-featured database schema
+  - Advanced integrity constraints and automation triggers
+  - Tech stack: TimescaleDB, dbmate, pgTAP
+  - Fully containerized (single command setup)
+- [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
+  - Theoretical presentation on upload risks
+  - Comprehensive walkthroughs for PortSwigger labs
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
-- Two web projects `<meta name="author" content="Mikołaj Mazur">`:
+- Web Projects `<meta name="author" content="Mikołaj Mazur">`:
   - https://spectrum.agh.edu.pl - still under development
   - TBA
+- [My Python Repo](https://github.com/marmag0/python-random)
+- [My Bash Repo](https://github.com/marmag0/bash-scripts)  
 
 ## 📚 What I’m Learning
 
