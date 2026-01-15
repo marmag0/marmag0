@@ -16,8 +16,8 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 - **SQL**: skilled in writing optimized queries, database design, and database management; experienced with TimescaleDB, PostGIS and pgTAP extensions.
 
 ### Platforms & Tools:
-- **Linux**: Intermediate experience with Linux environments for development, scripting, and administration. Daily macOS user — and yes, Bash is very useful there as well.
-- **Git**: Version control and collaborative development. Experienced with advanced workflows, branching strategies, and conflict resolution.
+- **Linux**: intermediate experience with Linux environments for development, scripting, and administration. Daily macOS user — and yes, Bash is very useful there as well.
+- **Git**: version control and collaborative development. Experienced with advanced workflows, branching strategies, and conflict resolution.
 - **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments.
 - **Docker**: basic experience with deploying and managing containerized applications.
 - **Ansible**: automation of server configuration using playbooks.
@@ -28,13 +28,13 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 
 Here are some highlights from my repositories:
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
-  - Full-featured database schema
-  - Advanced integrity constraints and automation triggers
-  - Tech stack: TimescaleDB, dbmate, pgTAP
-  - Fully containerized (single command setup)
+  - full-featured database schema
+  - advanced integrity constraints and automation triggers
+  - tech stack: TimescaleDB, dbmate, pgTAP
+  - fully containerized (single command setup)
 - [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
-  - Theoretical presentation on upload risks
-  - Comprehensive walkthroughs for PortSwigger labs
+  - theoretical presentation on upload risks
+  - comprehensive walkthroughs for PortSwigger labs
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
 - Web Projects `<meta name="author" content="Mikołaj Mazur">`:
   - https://spectrum.agh.edu.pl - still under development
