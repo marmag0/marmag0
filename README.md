@@ -37,10 +37,12 @@ Here are some highlights from my repositories:
   - comprehensive walkthroughs for PortSwigger labs
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
 - Web Projects `<meta name="author" content="Mikołaj Mazur">`:
-  - https://spectrum.agh.edu.pl - still under development
+  - https://spectrum.agh.edu.pl
   - TBA
 - [My Python Repo](https://github.com/marmag0/python-random)
-- [My Bash Repo](https://github.com/marmag0/bash-scripts)  
+- [My Bash Repo](https://github.com/marmag0/bash-random)
+- [My PoweShell Repo](https://github.com/marmag0/powershell-random)
+
 
 ## 📚 What I’m Learning
 
