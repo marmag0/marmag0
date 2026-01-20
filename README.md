@@ -21,7 +21,7 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 - **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments.
 - **Docker**: basic experience with deploying and managing containerized applications.
 - **Ansible**: automation of server configuration using playbooks.
-- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf
+- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf, VPN & tunneling
 
 
 ## 📂 Projects
