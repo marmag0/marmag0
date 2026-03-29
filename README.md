@@ -10,23 +10,29 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 ## 🛠️ Skills & Technologies
 
 ### Languages:
-- **Python**: functional programming, OOP, algorithm implementation, system scripts, data analysis (with Pandas), and backend development with Flask.
-- **Bash**: automation scripts and log analysis.
-- **HTML & CSS**: basic, responsive website design.
+- **Python**: functional programming, OOP, algorithm implementation, system scripts, data analysis (with Pandas), working with LLMs (API, local, Ollama), and backend development with Flask.
+- **Bash & PowerShell**: automation scripts and log analysis.
+- **React**: intermediate level mobile app development (+ basics of LLM implementation using React Native ExecuTorch)
+- **HTML & CSS**: intermediate level responsive website design.
+- **JS**: frontend logic, automation scripts (n8n)
 - **SQL**: skilled in writing optimized queries, database design, and database management; experienced with TimescaleDB, PostGIS and pgTAP extensions.
 
 ### Platforms & Tools:
 - **Linux**: intermediate experience with Linux environments for development, scripting, and administration. Daily macOS user — and yes, Bash is very useful there as well.
 - **Git**: version control and collaborative development. Experienced with advanced workflows, branching strategies, and conflict resolution.
-- **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments.
+- **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments; experimenting with home lab.
 - **Docker**: basic experience with deploying and managing containerized applications.
 - **Ansible**: automation of server configuration using playbooks.
-- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf, VPN & tunneling
+- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf, VPN & tunneling, Cloudflare
 
 
 ## 📂 Projects
 
 Here are some highlights from my repositories:
+- [LLM-persona-evaluation](https://github.com/marmag0/llm-persona-evaluation)
+  - part of engineering degree project
+  - evaluating SLMs in dynamic persona adoption and honeypot system emulation
+  - Python, API and usage (in near future)
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
   - full-featured database schema
   - advanced integrity constraints and automation triggers
@@ -37,11 +43,17 @@ Here are some highlights from my repositories:
   - comprehensive walkthroughs for PortSwigger labs
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
 - Web Projects `<meta name="author" content="Mikołaj Mazur">`:
-  - https://spectrum.agh.edu.pl
+  - https://spectrum.agh.edu.pl - waiting for update...
   - TBA
 - [My Python Repo](https://github.com/marmag0/python-random)
 - [My Bash Repo](https://github.com/marmag0/bash-random)
 - [My PoweShell Repo](https://github.com/marmag0/powershell-random)
+
+
+## Hackathons
+- 🥉 3rd place: BITEhack 2026 (Python, PostgrSQL, Docker, GCP)
+- 🥈 2nd place: Cookie Game Jam 2026 (Unity, C#)
+- participant: SWM x Gemini Hackathon (React Native, PostgreSQL, Docker, System Architecture Design, Figma)
 
 
 ## 📚 What I’m Learning
@@ -54,25 +66,8 @@ I’m continuously expanding my expertise in:
 
 
 ## 📫 How to Reach Me
-- **Email**: TBA
 - **LinkedIn**: [ME](https://www.linkedin.com/in/mikolaj-mazur/)
 - **Website/Portfolio**: TBA
 
 
 ### Thank you for visiting my GitHub profile! 🚀
-
-
-<!--
-**marmag0/marmag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
