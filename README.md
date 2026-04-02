@@ -38,6 +38,7 @@ Here are some highlights from my repositories:
   - advanced integrity constraints and automation triggers
   - tech stack: TimescaleDB, dbmate, pgTAP
   - fully containerized (single command setup)
+- [Databse for Telemetry](https://github.com/marmag0/desired-database-WebApp)
 - [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
   - theoretical presentation on upload risks
   - comprehensive walkthroughs for PortSwigger labs
