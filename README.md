@@ -16,6 +16,7 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 - **HTML & CSS**: intermediate level responsive website design.
 - **JS**: frontend logic, automation scripts (n8n)
 - **SQL**: skilled in writing optimized queries, database design, and database management; experienced with TimescaleDB, PostGIS and pgTAP extensions.
+- probably sth more is featured in my projects... better to show than tell. Check them out!
 
 ### Platforms & Tools:
 - **Linux**: intermediate experience with Linux environments for development, scripting, and administration. Daily macOS user — and yes, Bash is very useful there as well.
@@ -32,20 +33,28 @@ Here are some highlights from my repositories:
 - [LLM-persona-evaluation](https://github.com/marmag0/llm-persona-evaluation)
   - part of engineering degree project
   - evaluating SLMs in dynamic persona adoption and honeypot system emulation
-  - Python, API and usage (in near future)
+  - Python, API and usage
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
   - full-featured database schema
   - advanced integrity constraints and automation triggers
   - tech stack: TimescaleDB, dbmate, pgTAP
   - fully containerized (single command setup)
 - [Databse for Telemetry](https://github.com/marmag0/desired-database-WebApp)
-- [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
-  - theoretical presentation on upload risks
-  - comprehensive walkthroughs for PortSwigger labs
+  - database system in PostgreSQL using TimescaleDB and PostGIS extenstions
+  - seemles migrations using dbmate
+  - fully conteneraized
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
 - Web Projects `<meta name="author" content="Mikołaj Mazur">`:
   - https://spectrum.agh.edu.pl - waiting for update...
   - TBA
+- [speedtest-cli-wrapper](https://github.com/marmag0/speedtest-cli-wrapper) - check if your ISP do what they should!
+  - Python project to check speedtest of home Internet access, generate monthly summaries and avoid being scamed by your ISP
+  - Records stored in PostgreSQL database
+  - pdf generation and SMTP integration for delivery
+  - fully containerized (single command setup)
+- [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
+  - theoretical presentation on upload risks
+  - comprehensive walkthroughs for PortSwigger labs
 - [My Python Repo](https://github.com/marmag0/python-random)
 - [My Bash Repo](https://github.com/marmag0/bash-random)
 - [My PoweShell Repo](https://github.com/marmag0/powershell-random)
