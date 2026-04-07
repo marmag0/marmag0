@@ -69,10 +69,12 @@ Here are some highlights from my repositories:
 ## 📚 What I’m Learning
 
 I’m continuously expanding my expertise in:
-- Advanced Linux administration
-- Network Management on CCNA level
 - Cybersecurity
+- Advanced Linux administration
+- Docker, Kubernetes and Ansible
+- Network Management on CCNA level
 - Testing and Automation
+- Programming: Go, React
 
 
 ## 📫 How to Reach Me
