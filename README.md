@@ -61,7 +61,7 @@ Here are some highlights from my repositories:
 - [My PoweShell Repo](https://github.com/marmag0/powershell-random)
 
 
-## Hackathons
+## 🏆 Hackathons
 - 🥉 3rd place: BITEhack 2026 (Python, PostgrSQL, Docker, GCP)
 - 🥈 2nd place: Cookie Game Jam 2026 (Unity, C#)
 - participant: SWM x Gemini Hackathon (React Native, PostgreSQL, Docker, System Architecture Design, Figma)
