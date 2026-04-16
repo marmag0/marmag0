@@ -30,6 +30,7 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 ## 📂 Projects
 
 Here are some highlights from my repositories:
+- [Hackerrank Solutions](https://github.com/marmag0/hackerrank-solutions) - daily dose of programming challanges 
 - [LLM-persona-evaluation](https://github.com/marmag0/llm-persona-evaluation)
   - part of engineering degree project
   - evaluating SLMs in dynamic persona adoption and honeypot system emulation
