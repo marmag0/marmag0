@@ -1,10 +1,10 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
 ## About Me
-I'm a cybersecurity student with a strong passion for network security and software development, with a particular focus on full-stack development, network management, system administration, data science, and database management.  
-I enjoy solving problems and writing clean, efficient code.  
+I'm a cybersecurity student and SRE intern with a strong passion for network security and backend development, with a particular focus on network management, system administration and database management.
+I enjoy solving problems, experimenting with AI models, deploying self-hosted apps (in my Home Lab) and writing clean, efficient code. 
 
-My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash, SQL, HTML, and CSS**.
+My primary skills include: **Networking, Cybersecurity, Python, Bash and SQL**.
 
 
 ## 🛠️ Skills & Technologies
@@ -24,7 +24,7 @@ My primary skills include: **Networking, Wide Cybersecurity Basics, Python, Bash
 - **Virtualization**: working with VirtualBox, VMware, or Proxmox; creating lab environments; experimenting with home lab.
 - **Docker**: basic experience with deploying and managing containerized applications.
 - **Ansible**: automation of server configuration using playbooks.
-- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf, VPN & tunneling, Cloudflare
+- **Networking Tools**: Wireshark, Nmap, tcpdump, Iperf, VPN & tunneling, Cloudflare Zero Trust
 
 
 ## 📂 Projects
@@ -45,19 +45,15 @@ Here are some highlights from my repositories:
   - automated migrations and GitHub Actions for image creation
   - layerd cybersecurity approach
   - fully containerized (single command setup)
-- [Databse for Telemetry](https://github.com/marmag0/desired-database-WebApp)
-  - database system in PostgreSQL using TimescaleDB and PostGIS extenstions
-  - seemles migrations using dbmate
-  - fully conteneraized
-- [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam) - database contributor
-- Web Projects `<meta name="author" content="Mikołaj Mazur">`:
-  - https://spectrum.agh.edu.pl - waiting for update...
-  - TBA
+- [My Pi-hole deployment](https://github.com/marmag0/pi-hole)
 - [speedtest-cli-wrapper](https://github.com/marmag0/speedtest-cli-wrapper) - check if your ISP do what they should!
   - Python project to check speedtest of home Internet access, generate monthly summaries and avoid being scamed by your ISP
   - Records stored in PostgreSQL database
   - pdf generation and SMTP integration for delivery
   - fully containerized (single command setup)
+- [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam)
+  - database contributor
+  - website project: https://spectrum.agh.edu.pl - will be updated soon...
 - [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
   - theoretical presentation on upload risks
   - comprehensive walkthroughs for PortSwigger labs
