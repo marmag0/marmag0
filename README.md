@@ -45,7 +45,7 @@ Here are some highlights from my repositories:
   - automated migrations and GitHub Actions for image creation
   - layerd cybersecurity approach
   - fully containerized (single command setup)
-- [My Pi-hole deployment](https://github.com/marmag0/pi-hole)
+- [Cloudflare enhanced Pi-hole deployment](https://github.com/marmag0/pi-hole-anywhere)
 - [speedtest-cli-wrapper](https://github.com/marmag0/speedtest-cli-wrapper) - check if your ISP do what they should!
   - Python project to check speedtest of home Internet access, generate monthly summaries and avoid being scamed by your ISP
   - Records stored in PostgreSQL database
