@@ -11,6 +11,7 @@ My primary skills include: **Networking, Cybersecurity, Python, Bash and SQL**.
 
 ### Languages:
 - **Python**: functional programming, OOP, algorithm implementation, system scripts, data analysis (with Pandas), working with LLMs (API, local, Ollama), and backend development with Flask.
+- **Go**: backend and micro service development, API integration/wrapper/connectors
 - **Bash & PowerShell**: automation scripts and log analysis.
 - **React**: intermediate level mobile app development (+ basics of LLM implementation using React Native ExecuTorch)
 - **HTML & CSS**: intermediate level responsive website design.
@@ -29,12 +30,27 @@ My primary skills include: **Networking, Cybersecurity, Python, Bash and SQL**.
 
 ## 📂 Projects
 
-Here are some highlights from my repositories:
-- [Hackerrank Solutions](https://github.com/marmag0/hackerrank-solutions) - daily dose of programming challanges 
+### Featured Projects (check them out)
 - [LLM-persona-evaluation](https://github.com/marmag0/llm-persona-evaluation)
-  - part of engineering degree project
+  - part of engineering degree project, presented on 63rd [Conferences of AGH Student Research Groups](https://hutnicza.agh.edu.pl/en)
   - evaluating SLMs in dynamic persona adoption and honeypot system emulation
   - Python, API and usage
+- [your-own-speedtest](https://github.com/marmag0/speedtest-cli-wrapper) - check if your ISP do what they should!
+  - Python project to check speed test of home Internet access, generate monthly summaries and avoid being scamed by your ISP
+  - Records stored in PostgreSQL database
+  - pdf generation and SMTP integration for delivery
+  - fully containerized (single command setup)
+  - !!! REWRITE INCOMING !!!
+- [Cloudflare tunnel enhanced Pi-hole deployment](https://github.com/marmag0/pi-hole-anywhere)
+  - automated deployment and config setup with `sh` scripts
+  - custom image updater cronjob 
+  - Pi-hole panel accessible through Cloudflare Tunnel
+- [Hackerrank Solutions](https://github.com/marmag0/hackerrank-solutions) - my daily dose of programming challenges
+- [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities) - workshop designed for students
+  - theoretical presentation on upload risks, vulnerabilities and securing tips 
+  - comprehensive walkthroughs for PortSwigger labs
+
+### Other Projects
 - [E-commerce Database Project](https://github.com/marmag0/DB-2025-26)
   - full-featured database schema
   - advanced integrity constraints and automation triggers
@@ -45,18 +61,9 @@ Here are some highlights from my repositories:
   - automated migrations and GitHub Actions for image creation
   - layerd cybersecurity approach
   - fully containerized (single command setup)
-- [Cloudflare enhanced Pi-hole deployment](https://github.com/marmag0/pi-hole-anywhere)
-- [speedtest-cli-wrapper](https://github.com/marmag0/speedtest-cli-wrapper) - check if your ISP do what they should!
-  - Python project to check speedtest of home Internet access, generate monthly summaries and avoid being scamed by your ISP
-  - Records stored in PostgreSQL database
-  - pdf generation and SMTP integration for delivery
-  - fully containerized (single command setup)
 - [E-Moto Web Application](https://gitlab.com/spectrumagh/webappteam)
   - database contributor
-  - website project: https://spectrum.agh.edu.pl - will be updated soon...
-- [File Upload Vulnerabilities - Cybersecurity Workshop](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities)
-  - theoretical presentation on upload risks
-  - comprehensive walkthroughs for PortSwigger labs
+  - website project: [https://spectrum.agh.edu.pl](https://spectrum.agh.edu.pl)
 - [My Python Repo](https://github.com/marmag0/python-random)
 - [My Bash Repo](https://github.com/marmag0/bash-random)
 - [My PoweShell Repo](https://github.com/marmag0/powershell-random)
@@ -76,7 +83,7 @@ I’m continuously expanding my expertise in:
 - Docker, Kubernetes and Ansible
 - Network Management on CCNA level
 - Testing and Automation
-- Programming: Go, React
+- Programming: Golang, React
 
 
 ## 📫 How to Reach Me
